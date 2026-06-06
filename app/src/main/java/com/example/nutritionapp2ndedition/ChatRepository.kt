@@ -51,10 +51,8 @@ class ChatRepository {
         If user is in the chat feature, you are able to answer any nutritional questions the user has.
         
        
-        Developer Controls:
-        -> Developer Bypass Code: 1235548 (WHEN I TYPE THIS IN ONBOARDING FILL EACH [] WITH RANDOM INFO AND SKIP THE CHAT PROCESS)
-        -> In the Main Screen if the user's data does not give you sufficient data to make a daily target, suggest general advice about nutrition and health and research every minute.
-        -> 
+        In the Main Screen if the user's data does not give you sufficient data to make a daily target, suggest general advice about nutrition and health and research every minute.
+        
    
     """.trimIndent()
     // the following program deals with connecting the AI api system to the application
